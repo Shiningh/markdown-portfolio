@@ -7,8 +7,7 @@ layout: default
 <br>
 
 {% include 02-image.md %}
-## commenting on the new graph
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 <br>
 
 {% include 03-links.md %}
